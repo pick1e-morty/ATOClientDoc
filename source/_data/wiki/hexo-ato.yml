@@ -1,0 +1,38 @@
+name: ATO Client
+title: ATO Client帮助文档
+subtitle: '一个快速监控取证的工具 | 致力于全自动完成三超任务'
+tags: 博客主题
+icon: /resource/logo.png
+cover: /resource/logo.png
+description: ATO Client 使用 Python3 进行开发，基于 PyQt5 构建图形界面，目前提供了免安装版仅需下载压缩包并解压即可立即使用。
+repo: picklemorty/ATOClient
+search:
+  filter: /
+  placeholder: 在 页面 中搜索...
+leftbar: 
+  - tree
+  - timeline_stellar_releases
+  - related
+comment_title: '评论区仅供交流，有问题请提 [issue](https://github.com/xaoxuu/hexo-theme-stellar/issues) 反馈。'
+comments:
+  service: giscus
+  giscus:
+    data-repo: picklemorty/ATOClient
+    data-mapping: number
+    data-term: 226
+base_dir: /
+tree:
+  '用户指南':
+    - index
+    - user-guide/quick_start
+    - user-guide/table_handle
+    - user-guide/download_video
+    - user-guide/mark_image
+  '开发者指南':
+    - developer-guide/quick_start
+    - developer-guide/architecture
+    - developer-guide/development_standard
+    - developer-guide/dahua_netsdk_exception
+    - developer-guide/dahua_playsdk_exception
+    - developer-guide/haikang_netsdk_exception
+    
