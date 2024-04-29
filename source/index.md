@@ -29,7 +29,7 @@ title: 首页
 
 
 <p id="logo">
-<img width="25%" align="center" src="./resource/logo.png" alt="logo">
+<img width="25%" align="center" src="../resource/logo.png" alt="logo">
 </p>
 
 <p id=index_h1>
@@ -86,9 +86,9 @@ ATO Client
 
 {% swiper width:max %}
 
-{% image ./resource/表格处理页面.png 表格处理页面截图 fancybox:true %}
-{% image ./resource/下载录像页面.png 下载录像页面截图 fancybox:true %}
-{% image ./resource/标记图片页面.png 标记图片页面截图 fancybox:true %}
+{% image ../resource/表格处理页面.png 表格处理页面截图 fancybox:true %}
+{% image ../resource/下载录像页面.png 下载录像页面截图 fancybox:true %}
+{% image ../resource/标记图片页面.png 标记图片页面截图 fancybox:true %}
 
 {% endswiper %}
 

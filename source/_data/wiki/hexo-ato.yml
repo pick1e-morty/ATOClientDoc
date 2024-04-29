@@ -5,7 +5,7 @@ tags: 博客主题
 icon: /resource/logo.png
 cover: /resource/logo.png
 description: ATO Client 使用 Python3 进行开发，基于 PyQt5 构建图形界面，目前提供了免安装版仅需下载压缩包并解压即可立即使用。
-repo: picklemorty/ATOClient
+repo: pick1e-morty/ATOClient
 search:
   filter: /
   placeholder: 在 页面 中搜索...
@@ -17,7 +17,7 @@ comment_title: '评论区仅供交流，有问题请提 [issue](https://github.c
 comments:
   service: giscus
   giscus:
-    data-repo: picklemorty/ATOClient
+    data-repo: pick1e-morty/ATOClient
     data-mapping: number
     data-term: 226
 base_dir: /

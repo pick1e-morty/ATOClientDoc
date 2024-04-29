@@ -7,6 +7,7 @@ title: 表格处理页面
 
 {% video /resource/table_handle.mp4 width:100% %}
 
+视频里都是乱点的，只是告诉你有这些操作。
 
 # 简单介绍
 
